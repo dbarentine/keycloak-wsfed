@@ -1,0 +1,5 @@
+com.quest.keycloak.protocol.wsfed.mappers.OIDCAddressMapper
+com.quest.keycloak.protocol.wsfed.mappers.OIDCFullNameMapper
+com.quest.keycloak.protocol.wsfed.mappers.OIDCUserPropertyMapper
+com.quest.keycloak.protocol.wsfed.mappers.SAMLRoleListMapper
+com.quest.keycloak.protocol.wsfed.mappers.SAMLUserPropertyAttributeStatementMapper

@@ -1,0 +1,2 @@
+com.quest.keycloak.broker.wsfed.mappers.AttributeToRoleMapper
+com.quest.keycloak.broker.wsfed.mappers.UserAttributeMapper
